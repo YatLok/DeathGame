@@ -7,8 +7,3 @@ There are 6 patterns of ending.
 ![sample1](sample1.png)  
 ![sample2](sample2.png)
 ![sample2](sample3.png)
-
-## 使用したアセット  
-unitychan  
-sky  
-standerd asset  
