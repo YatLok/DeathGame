@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CA728B80-14B9-DC34-15E6-5220AB3CB34D}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Town1/ui.cs">
+    <Files>
+      <File FileName="Assets/scripts/Point.cs" Line="14" Column="28" />
+      <File FileName="Assets/scripts/clientA/cliAdireUI.cs" Line="5" Column="23" />
+      <File FileName="Assets/scripts/map/map1UI.cs" Line="12" Column="1" />
+      <File FileName="Assets/scripts/map/map2UI.cs" Line="10" Column="1" />
+      <File FileName="Assets/scripts/clientB/clientBUI.cs" Line="63" Column="30" />
+      <File FileName="Assets/scripts/clientC/clientCUI.cs" Line="66" Column="57" />
+      <File FileName="Assets/scripts/map/mapButton.cs" Line="17" Column="49" />
+      <File FileName="Assets/scripts/cave/caveUI.cs" Line="37" Column="1" />
+      <File FileName="Assets/scripts/Town2/town2UI2.cs" Line="43" Column="23" />
+      <File FileName="Assets/scripts/allText.cs" Line="48" Column="21" />
+      <File FileName="Assets/scripts/allButton.cs" Line="26" Column="8" />
+      <File FileName="Assets/scripts/caveSound.cs" Line="19" Column="42" />
+      <File FileName="Assets/scripts/intro/introUI.cs" Line="27" Column="23" />
+      <File FileName="Assets/scripts/Town2/town2UI.cs" Line="24" Column="19" />
+      <File FileName="Assets/scripts/clientC/CText.cs" Line="32" Column="44" />
+      <File FileName="Assets/scripts/clientA/cliAText.cs" Line="13" Column="63" />
+      <File FileName="Assets/scripts/clientB/Btext.cs" Line="33" Column="48" />
+      <File FileName="Assets/scripts/Town1/ui.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
